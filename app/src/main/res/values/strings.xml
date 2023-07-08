@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foreground Work Manager</string>
+    <string name="start_work">start work</string>
+    <string name="stop_work">stop work</string>
+</resources>
